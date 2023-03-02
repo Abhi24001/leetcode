@@ -3,7 +3,7 @@ public:
     vector<int> keys;
     vector<int> values;
     
-    /** Initialize your data structure here. */
+   
     MyHashMap() {
     }
     
