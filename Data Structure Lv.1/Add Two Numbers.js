@@ -2,6 +2,7 @@ var addTwoNumbers = function (l1, l2) {
     // Head of the new linked list - this is the head of the resultant list
     let head = null;
     // Reference of head which is null at this point
+    //not null
     let temp = null;
     // Carry
     let carry = 0;
